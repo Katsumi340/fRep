@@ -17,7 +17,8 @@ def operations() :
     else :
         print("unvalid command")
 while True :
-    print("This is a calculator")
+    feature-snus
+    print("This is calculator")
     print("If you want to Exit press 0, or every key to continue:")
     Exit = input("?:")
     if Exit == "0" :
